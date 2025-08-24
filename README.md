@@ -1,4 +1,4 @@
-# Intune App Deployment Demo
+# Intune App Deployment
 
 This project demonstrates application deployment using Microsoft Intune.
 
